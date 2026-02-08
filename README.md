@@ -15,5 +15,6 @@ Montitoring and Logging Features:
 
 LIVE DASHBOARD
   The dashboard contains real-time information, colour-coded threat levels, and KPI counters.
+  
 PERSISTENT LOGGING
   All security events are automatically logged to a database for forensics and audit trails.
