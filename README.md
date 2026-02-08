@@ -1,6 +1,7 @@
 SIEMlite is a simple security montioring tool that focuses on SSH logs. Unlike basic log filters, SIEMlite uses sliding-window algorithms and stateful tracking to detect malicious behaviour.
 
 Key Detection Features:
+
 SSH BRUTE FORCE DETECTION
   Monitors login failures within a configurable time window and flags IP addresses that exceed the failed threshold attempts.
 
@@ -11,6 +12,7 @@ SUCCESS-AFTER-FAILURE
   Detects when a successful login occurs immediately after a series of failures from the same IP which is a strong indicator of a compromised account.
 
 Montitoring and Logging Features:
+
 LIVE DASHBOARD
   The dashboard contains real-time information, colour-coded threat levels, and KPI counters.
 PERSISTENT LOGGING
