@@ -1,0 +1,12 @@
+# Python files
+__pycache__/
+*.py[cod]
+
+# SIEM specific
+alerts/alerts.db
+alerts/alerts.log
+logs/SSH_test.log
+
+# Editor specific
+.idea/
+.vscode/
